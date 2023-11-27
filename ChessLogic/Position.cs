@@ -1,6 +1,6 @@
 ﻿namespace ChessLogic
 {
-    public class Position // square on teh board. Rows incress from top to bottum and colums from left to right. So the top left square is (0,0)
+    public class Position // square on the board. Rows incress from top to bottum and colums from left to right. So the top left square is (0,0)
     {
         public int Row { get; }
         public int Column { get; }
