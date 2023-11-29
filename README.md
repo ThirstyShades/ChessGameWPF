@@ -24,5 +24,5 @@ C#
 # Future Work
 
 - Fix bug
-- Add checks and game won logic
-- add castleing, and the other spectial moves. 
+- Add checks and game-won logic
+- add castling and the other special moves. 
